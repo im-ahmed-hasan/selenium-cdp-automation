@@ -35,7 +35,7 @@ Created by **Ahmed Hasan**, 2025.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/im-ahmed-hasan/cdp-console-log-capture.git
+git clone https://github.com/im-ahmed-hasan/selenium-cdp-automation.git
 cd cdp-console-log-capture
 
 
