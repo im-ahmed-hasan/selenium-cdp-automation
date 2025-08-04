@@ -6,7 +6,7 @@ A minimal Java example demonstrating how to capture browser console logs using C
 
 ## 🔍 Overview
 
-This project uses **Chrome DevTools Protocol (CDP)** to tap into the browser’s internal console and listen for JavaScript log events like `console.log`, `console.error`, and more — all through **Selenium 4.34.0**.
+This project uses **Chrome DevTools Protocol (CDP)** to tap into the browser’s internal console and listen for JavaScript log events like `console.log`, `console.error` and more — all through **Selenium 4.34.0**.
 
 Created by **Ahmed Hasan**, 2025.
 
