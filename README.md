@@ -14,7 +14,7 @@ Created by **Ahmed Hasan**, 2025.
 
 ## 📦 Tech Stack
 
-- Java 21+
+- Java 22+
 - Selenium 4.34.0
 - ChromeDriver (auto-resolved by Selenium Manager)
 - Chrome 138 or later
