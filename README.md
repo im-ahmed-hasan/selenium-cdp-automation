@@ -21,7 +21,7 @@ Created by **Ahmed Hasan**, 2025.
 
 ---
 
-## 🚀 How It Works
+## 🚀 How It Works 
 
 - Starts a ChromeDriver session
 - Attaches a CDP `DevTools` session
